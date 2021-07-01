@@ -1,0 +1,39 @@
+  
+			    ======: DOCUMENTATION :=========
+
+Requirements: 
+-------------
+	 
+    		--> 	xamp / wamp
+		--> 	web-browser
+		-->	php 5+
+
+STEPS:
+-------
+
+     		--> Unzip the main file (crop_and_rotate_image.zip)
+		
+		--> Put it in (htdocs folder for xamp) / (www folder for wamp)
+
+SPECIFICATIONS:
+---------------
+		
+		--> Easily Crop the image 
+
+		--> Easily Rotate (Left or Right) image 
+		
+
+PROCESS :  
+---------
+
+		--> Selsect Image (GPEG,PNG) 
+		
+		--> Rotate Left or Right (Optional)
+		
+		--> Click on crop button
+		
+		--> You can see the result and Download it
+		
+
+
+
